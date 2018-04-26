@@ -129,6 +129,7 @@ iframe {
   width: 180px;
   height: 180px;
   border-radius: 90px;
+  object-fit: cover;
 }
 .header .profile-content .name {
   color: #49515a;
